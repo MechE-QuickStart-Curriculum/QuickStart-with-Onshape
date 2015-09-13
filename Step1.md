@@ -32,11 +32,11 @@ c. draw a sketch, and then manipulate that sketch -- like **extruding**
  
 ## Exercise 2: try different operations in place of step #5
 
-revolve -- choose an axis and revolve sketch around that axis.
-sweep -- two sketches and a path, and will sweep across that path
-loft -- two different sketches, and will sweep and merge from one to second shape
-shell -- make all walls a certain thickness, great for complex geometries and 3d printing
-fillets -- normally last step
+* revolve -- choose an axis and revolve sketch around that axis.
+* sweep -- two sketches and a path, and will sweep across that path
+* loft -- two different sketches, and will sweep and merge from one to second shape
+* shell -- make all walls a certain thickness, great for complex geometries and 3d printing
+* fillets -- normally last step
 
 **when possible don't pick faces as new sketch surfaces of parts**
 
