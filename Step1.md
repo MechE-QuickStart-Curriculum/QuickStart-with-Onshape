@@ -45,7 +45,6 @@ fillets -- normally last step
 
 1. add parts to the assembly
 2. create mates
-3. 
 
 ## Types of mates:
 * coincident -- two faces come togehter
