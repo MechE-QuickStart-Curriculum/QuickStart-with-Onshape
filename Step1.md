@@ -22,8 +22,15 @@ c. draw a sketch, and then manipulate that sketch -- like **extruding**
 3. draw a sketch
 4. control dimensions for the sketch
 5. then extrude this part
+
+## Extrude details
+
+1. Extrude
+2. choose to surface, and extrude subtract (extrude cut in Solidworks)
+3. finally do a fillet selecting the edges.
+
  
-## Exercise 2:
+## Exercise 2: try different operations in place of step #5
 
 revolve -- choose an axis and revolve sketch around that axis.
 sweep -- two sketches and a path, and will sweep across that path
@@ -31,3 +38,23 @@ loft -- two different sketches, and will sweep and merge from one to second shap
 shell -- make all walls a certain thickness, great for complex geometries and 3d printing
 fillets -- normally last step
 
+**when possible don't pick faces as new sketch surfaces of parts**
+
+
+## Exercise 3: Create Assembly
+
+1. add parts to the assembly
+2. create mates
+3. 
+
+## Types of mates:
+* coincident -- two faces come togehter
+* concentric -- like when a pin goes into a hole
+* parallel -- when two things need to be parallel
+* tangent -- when a circular thing is tangent to a plane
+* width mate -- a block and a box and want them to be perfectly centered
+* advanced mate -- can do additional mates like angles
+* Mechanical mates
+  * rack and pinions
+  * screw
+  * pins
