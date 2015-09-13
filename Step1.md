@@ -57,3 +57,7 @@ fillets -- normally last step
   * rack and pinions
   * screw
   * pins
+
+## Mindset -- Homework
+
+Look around and think about how to make things in this path sketches.
