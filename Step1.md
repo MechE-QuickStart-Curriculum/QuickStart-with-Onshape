@@ -21,7 +21,7 @@ c. draw a sketch, and then manipulate that sketch -- like **extruding**
 2. select a plane
 3. draw a sketch
 4. control dimensions for the sketch
-5. then extrude this part
+5. Operations: this time do an extrude
 
 ## Extrude details
 
